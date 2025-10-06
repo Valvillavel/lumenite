@@ -1,0 +1,3 @@
+[submodule "lumenite-frontend"]
+	path = lumenite-frontend
+	url = https://github.com/Valvillavel/lumenite-frontend.git
