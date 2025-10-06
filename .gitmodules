@@ -1,3 +1,6 @@
 [submodule "lumenite-frontend"]
 	path = lumenite-frontend
 	url = https://github.com/Valvillavel/lumenite-frontend.git
+[submodule "lumenite"]
+	path = lumenite
+	url = https://github.com/Valvillavel/lumenite-backend.git
